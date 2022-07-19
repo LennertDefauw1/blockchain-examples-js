@@ -24,3 +24,15 @@
 
 ### Run container (detached)
 ``` docker run -d --name "chains-example" --network proxy registry.gitlab.com/jimber/example-chaining:latest```
+
+
+## Chains
+
+This example will demonstrate account creation + showing balance for following chains:
+
+- [x] Stellar Native
+- [x] Stellar TFChain
+- [x] TFChain (Substrate)
+- [ ] Binance Smart Chain
+- [ ] Cosmos (ThreeFold?)
+- [ ] Algorand 
